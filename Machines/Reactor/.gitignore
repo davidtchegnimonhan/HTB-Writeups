@@ -1,0 +1,20 @@
+# Local / temporary files
+.venv/
+*.log
+*.tmp
+
+# Credentials / hashes
+hash.txt
+*.potfile
+
+# Local exploit tooling
+react2shell/
+vulnerable-next-js-poc/
+
+# Enumeration artifacts
+nmap-all.txt
+nmap-detail.txt
+
+# Downloaded application artifacts
+reactor.html
+*.js
